@@ -1,0 +1,17 @@
+{
+  "name": "turn-count-3d-viz",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.0"
+  },
+  "dependencies": {
+    "@arcgis/core": "^4.27.6"
+  }
+}
